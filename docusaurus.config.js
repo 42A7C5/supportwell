@@ -61,7 +61,11 @@ const config = {
           {
             label: 'Bullying',
             to: '/bullying',
-          }
+          },
+          {
+            to: '/districts',
+            label: 'Schools & Districts',
+          },
         ],
       },
       prism: {

@@ -25,7 +25,7 @@ export default function Home(): JSX.Element {
           <h2>{district}</h2>
         </div>
       </div>
-      <video src="/img/hero.m4v" style={{ objectFit: 'cover', width: '100vw', height: '100vh', position: 'fixed', top: 0, left: 0 }} autoPlay loop muted></video>
+      <video src="/img/hero.mp4" style={{ objectFit: 'cover', width: '100vw', height: '100vh', position: 'fixed', top: 0, left: 0 }} autoPlay loop muted></video>
     </Layout>
   );
 }
