@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+:root {
+  --ifm-color-primary: #009b3a;
+}
+
+.navbar {
+  background: rgba(255, 255, 255, 0.9);
+  border-bottom: 6px solid #009b3a;
+  z-index: 99999;
+}
+
+* {
+  font-family: "Roboto Slab" !important;
+}

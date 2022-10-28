@@ -1,0 +1,12 @@
+{
+    "name": "San Diego County Office of Education",
+    "reportBullying": "https://www.sdcoe.net/students/health-well-being/bullying-prevention",
+    "learnBullying": "https://www.sdcoe.net/students/health-well-being/bullying-prevention",
+    "resources": [
+        {
+            "name": "SDCOE Homepage",
+            "description": "",
+            "href": "https://sdcoe.net"
+        }
+    ]
+}

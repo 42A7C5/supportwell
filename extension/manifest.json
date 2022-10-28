@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "SupportWell",
+    "version": "1.0",
+    "permissions": [
+        "storage"
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "options_ui": {
+        "page": "settings.html",
+        "open_in_tab": false
+    },
+    "icons": {
+        "128": "logo.png"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Sample District",
+    "reportBullying": "https://example.com/reportbullying",
+    "learnBullying": "https://example.com/learnbullying",
+    "resources": [
+        {
+            "name": "Example Resource",
+            "description": "This is an example resource.",
+            "href": "https://example.com"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "San Diego Unified",
+    "reportBullying": "https://www.sandiegounified.org/about/anti-_bullying/online_bullying_reporting_form",
+    "learnBullying": "https://www.sandiegounified.org/about/anti-_bullying/online_bullying_reporting_form",
+    "resources": [
+        {
+            "name": "Youth Advocacy",
+            "description": "The district's Youth Advocacy department.",
+            "href": "https://youthadvocacy.us"
+        }
+    ]
+}
